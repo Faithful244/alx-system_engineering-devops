@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /root < /etc/passwd
+ls -la . .. /boot < /etc/passwd
